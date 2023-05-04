@@ -1,6 +1,6 @@
 # Procedural_Room
 
-![Genealogic](https://user-images.githubusercontent.com/122599802/236158886-d9b04192-3773-4eb1-a496-d8db210fd125.png)
+![Genealogic](https://user-images.githubusercontent.com/122599802/236159184-d2757d97-47de-430a-b932-ab53a5857b72.png)
 
 Software used: Python v3.11 (https://docs.python.org/3/license.html) 
 
